@@ -3,8 +3,8 @@
   <h1 align="center">InYeong's Portfolio ✨</h1>
 
 
-## Overview
+## 요약
 - static website로 Github pages 활용한 웹 호스팅 
 
-- 원 제작자(KooMinJeong님)의 template을 fork하여 만들었습니다.
+- Ronaldo(colorlib)님의 html,css template으로 제작했습니다.
 
