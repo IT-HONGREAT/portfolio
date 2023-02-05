@@ -440,3 +440,15 @@ $(function() {
 
 });
 
+// memo : detail description
+const showModalBtn = document.querySelector('#showModalBtn');
+const closeModalBtn = document.querySelector('#closeModalBtn');
+const modal = document.querySelector('#familynote-modal');
+
+showModalBtn.addEventListener('click', () => {
+  modal.style.display = 'flex';
+});
+
+closeModalBtn.addEventListener('click', () => {
+  modal.style.display = 'none';
+});
